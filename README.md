@@ -11,11 +11,11 @@ Ein Discord-Bot, mit dem man sich unterhalten kann (per Nachricht oder DM).
 
 ## GitHub-Projekt
 
-<a href='https://github.com/Coding-Cloud/Discord-Bot'</a>
+https://github.com/Coding-Cloud/Discord-Bot
 
 ## Discord
  
-<a href='https://discord.gg/SKs26w6S'</a>
+https://discord.gg/SKs26w6S
 
 
 
