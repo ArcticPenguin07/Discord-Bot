@@ -26,7 +26,7 @@ https://discord.gg/SKs26w6S
 
 ## Über mich
 
-Ich bin ein Python und JavaScript Hobby-und Botentwickler. Ich arbeite gerade an einem Botprojekt für meinen Discord-Server. Bei weiteren Fragen melden Sie sich über Discord bei mir: *_Rafael#0014* . Ich möchte nach der Schule das Informatik-Studium beginnen und einen Abschluss machen. Danach möchte ich den Schwerpunkt Softwareentwicklung-engineering auswählen.
+Ich bin ein Python und JavaScript Hobby-und Botentwickler. Ich arbeite gerade an einem Botprojekt für meinen Discord-Server. Bei weiteren Fragen melden Sie sich über Discord bei mir: *_Rafael#0014*.
 - 🌱 I’m currently learning for school, Python and JavaScript. 
 - 😄 Pronouns: he/him. 
 - ⚡ Fun fact: I play american football and table tennis. 
