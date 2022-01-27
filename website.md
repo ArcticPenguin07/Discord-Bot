@@ -43,20 +43,13 @@ Python / JS / HTML / CSS / VS Code / Visual Studio / Git / GitHub / PyCharm
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-## Trophäen
+## Am meisten benutzte Sprachen
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Coding-Cloud)](https://github.com/ryo-ma/github-profile-trophy)
-
-## Am meisten benutzte Sprachen ~
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-Cloud)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael0014)](https://github.com/anuraghazra/github-readme-stats)
 
 ## GitHub Statistiken
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Coding-Cloud&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael0014&show_icons=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Coding-Cloud)  
-
-![Profile views](https://gpvc.arturio.dev/Coding-Cloud)  
 
 ~ *Die am meisten benutzten Sprachen sind nur die Angaben auf GitHub, keine Angaben über meine allgemeinen benutzten Programmiersprachen.* 
