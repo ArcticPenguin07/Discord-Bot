@@ -1,4 +1,4 @@
-import 
+const Discord = require('discord.js');
 
 // anfang
 
